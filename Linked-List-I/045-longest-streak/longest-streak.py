@@ -19,8 +19,4 @@ def longest_streak(head):
     prev = curr 
     curr = curr.next
 
-  return longest
-
-    
-      
-    
+  return longest   
